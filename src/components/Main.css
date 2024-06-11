@@ -1,0 +1,14 @@
+.main {
+    background: whitesmoke;
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 650px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(94, 94, 94);
+}
+
+.main h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
