@@ -1,4 +1,4 @@
-# Lista de Tarefas com Rect
+# Lista de Tarefas com React
 
 Uma lista de tarefas simples feita para exercitar o uso do React.
 
