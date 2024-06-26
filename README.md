@@ -1,10 +1,13 @@
-# Lista de Tarefas com React
+# To-Do List with React
 
-Uma lista de tarefas simples feita para exercitar o uso do React.
+A simple to-do list created to practice using React.
 
-Possibilidade de:
-- Criar
-- Editar
-- Deletar
+Features:
 
-seus afazeres, que ficam salvos no local storage do navegador!
+- Create
+- Edit
+- Delete
+
+your tasks, which are saved in the browser's local storage!
+
+
